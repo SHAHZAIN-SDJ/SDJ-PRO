@@ -6,10 +6,6 @@
   Made with ❤️ by <a href="https://www.facebook.com/HATERZKAABUUGZAINI2">SHAHZAIN-SDJ_</a>
 </p>
 <p align="center">
- ![#](https://raw.githubusercontent.com/SHAHZAIN-SDJ/SDJ-PRO/main/Image/https://github.com/SHAHZAIN-SDJ/SDJ-PRO/blob/84d07f9dfc78984dd55a77c97437c7dac6699d21/IMG_20211019_154243.png)
-  ![#](https://raw.githubusercontent.com/SHAHZAIN-SDJ/SDJ-PRO/main/Image/https://github.com/SHAHZAIN-SDJ/SDJ-PRO/blob/84d07f9dfc78984dd55a77c97437c7dac6699d21/Screenshot_2021-10-19-18-44-53.png)
-
-###### notice me: if you get cp results, save 3/7 days then log in.
 
 <a href="https://github.com/SHAHZAIN-SDJ/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/SHAHZAIN-SDJ?label=Followers&color=blue&style=flat-square"></a>
