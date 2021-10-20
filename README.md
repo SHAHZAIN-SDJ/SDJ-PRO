@@ -43,7 +43,7 @@ $ python2 SDJ
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/SHAHZAIN-SDJ/count.svg" />
 </p>
-
+CREDIT TO : https://github.com/yayan-XD
 ##### Notice Me : Please SUBSCRIBE OUR YOUTUBE CHANNEL
 
 
